@@ -7,7 +7,6 @@
 header{
     display: flex;
     justify-content: space-around;
-    background-color: orangered; 
     align-items: center;
     font-family: 'Courier New', Courier, monospace;
     height: 110px;
@@ -35,7 +34,7 @@ header{
     
 }
 .menu ul li a:hover{
-    background-color:gray
+    background-color:cyan;
 }
 
 iframe{
